@@ -14,4 +14,3 @@
 8. Type (git push origin main) to push all the files with thier changes.
 9. If you want modified from GitHub.com Repository that you already cloned type (git pull origin main) to download the changes.
 
-[<- Back](README)
