@@ -10,3 +10,5 @@
 ## Table of contents:
 | Content | Link of the page |
 | --- | --- |
+| Growth Mindset | [Click here to open](Growth_Mindset) |
+
