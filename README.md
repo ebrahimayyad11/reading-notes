@@ -8,6 +8,7 @@
 - ***GitHub:*** [My GitHub](https://github.com/ebrahimayyad11)
 
 ## Table of contents:
+
 | Content | Link of the page |
 | --- | --- |
 | Growth Mindset | [Click here to open](Growth_Mindset) |
