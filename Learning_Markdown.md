@@ -9,13 +9,9 @@
 
 
 ### You can use Markdown most places around GitHub:
-* [Gists](https://gist.github.com/)
-* Comments in Issues and Pull Requests
-* Files with the .md or .markdown extension
-
-Gists
-Comments in Issues and Pull Requests
-Files with the .md or .markdown extension
+* [Gists](https://gist.github.com/).
+* Comments in Issues and Pull Requests.
+* Files with the .md or .markdown extension.
 
 ## Syntax guide:
 * Here’s an overview of Markdown syntax that we can use anywhere on GitHub.com or in our text files:
@@ -24,7 +20,7 @@ Files with the .md or .markdown extension
 2. Emphasis.
 3. Unorrdered List.
 4. oredered list.
-5. Images 
-6. Links 
-7. Blockquotes 
-8. Inline code
+5. Images.
+6. Links.
+7. Blockquotes.
+8. Inline code.
