@@ -9,7 +9,7 @@
 
 ## Table of contents:
 |Content|link of the page|
-|:---:|:---:|
+|:-----:|:---------------|
 |Growth mindset|[Click here to open](Growth_Mindset)|
 |Learning Markdown|[Click here to open](Learning_Markdown)|
 |git|[Click here to open](Git)|
