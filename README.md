@@ -11,6 +11,9 @@
 |Content|link of the page|
 |:---:|:---:|
 |Growth mindset|[Click here to open](Growth_Mindset)|
-|Learning Markdown|[Click here to open](Learning_Markdown)
+|Learning Markdown|[Click here to open](Learning_Markdown)|
+|git|[Click here to open](Git)|
+|A-C-P|[Click here to open](A-C-P)
+
 
 
