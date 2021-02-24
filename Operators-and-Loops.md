@@ -1,6 +1,7 @@
 # summraizing
 
 
+
 ## comparison operators: evaluating conditions
 1. ==  : is eqal to .
 2. !=  : is not eqal to .
