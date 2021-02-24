@@ -11,7 +11,7 @@
 4. output the results.
 * these 4 things are common to all computers.
 
-## how can we use comuters
+## how can we use computers
 
 1. talk to each other.
 2. play games.
