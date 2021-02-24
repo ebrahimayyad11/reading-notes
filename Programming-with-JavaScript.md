@@ -33,6 +33,8 @@
 ## WRITING A SCRIPT
 * To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
 
+
+
 ### The steps of writing a script:
 1. DEFINE THE GOAL.
 2. DESIGN THE SCRIPT.
