@@ -20,6 +20,7 @@
 |read06b|[Click here to open](read06b)
 |starter-code|[Click here to open](starter-code.md)
 |Computer_Architecture_and_Logic|[Click here to open](Computer_Architecture_and_Logic.md)|
+|Programming-with-JavaScript|[Click here to open](Programming-with-JavaScript.md)|
 |Operators-and-Loops|[Click here to open](Operators-and-Loops.md)|
 
 
